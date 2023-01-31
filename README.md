@@ -1,5 +1,5 @@
 # AI-based-Social-media-front-end
-Front-end of AI based social media platform in React, TailwindCSS, Vite 💖☄️
+Front-end of AI based social media platform in React, TailwindCSS, Vite 💖☄️ using DALL-E
 ## Demo
 ![DALL-E 2 0](https://user-images.githubusercontent.com/75971776/215284530-ae9ae644-7963-43b0-9431-75385f872299.png)
 
